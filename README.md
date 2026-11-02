@@ -13,6 +13,8 @@ Mechatronics Engineering, Manipal Institute of Technology, MAHE, Manipal.
 | Nakhuda Mohammed Yusuf | 230929320 |
 | Mohammed Zayn | 230929186 |
 
+Project guide: **Dr Asha C S**
+
 ---
 
 ## Overview
